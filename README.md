@@ -1,4 +1,4 @@
-### intel hex parser
+### Intel Hex Parser
 
 Originally made for my project 'LapisRTOS' as it dynamically loads hex files. Though, this is pretty easy to modify and use as a normal ihex file reader. 
 
